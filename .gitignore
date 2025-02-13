@@ -1,0 +1,11 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.suo
+*.user
+*.userprefs
